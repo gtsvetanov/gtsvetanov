@@ -18,7 +18,6 @@ jobs:
           user: gtsvetanov
           template: classic
           base: activity, repositories
-          config_animated: yes
           config_timezone: Europe/Sofia
           plugin_languages: yes
           plugin_languages_recent_load: 1000
